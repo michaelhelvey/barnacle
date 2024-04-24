@@ -1,0 +1,2 @@
+boot:
+    cargo -p boot
