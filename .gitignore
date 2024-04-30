@@ -4,3 +4,5 @@ scratch
 *.img
 *.macho
 *.o
+
+.DS_Store
