@@ -1,3 +1,4 @@
 [workspace]
 members = ["crates/*"]
+default-members = ["./crates/boot"]
 resolver = "2"
